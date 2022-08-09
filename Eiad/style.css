@@ -1,0 +1,140 @@
+li {
+    font-size: 20px;
+    font-family: "comic sans";
+    font-weight: bold;
+}
+
+h2 {
+     font-size: 35px;
+     font-family: "comic sans";
+}
+ #firstLine{
+    font-size: 40px;
+    font-weight:bold;
+    color:rgb(38, 133, 177);
+ }
+
+
+
+  
+
+
+.lists{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-decoration-line: underline;
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    color:black;
+    
+}
+
+.lists2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 100px;
+    text-decoration-line: underline;
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+    color: tomato;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p{
+    text-align: center;
+}
+    
+#bigger{
+    font-size: 30px;
+    color: green;
+}
+
+#bigger2{
+    text-align: center;
+}
+
+#img{
+    position: relative;
+    left: 500px;
+}
+
+#sharks{
+    text-align: center;
+}
+/*
+#sharkImg{
+    position: relative;
+    left: 350px;
+}
+*/
+#sharkImg2{
+    position:relative;
+    left:195px;
+    bottom: 212px;
+    width: 300px;
+        
+
+}
+
+#megImg{
+    position: relative;
+    left:200px
+}
+
+#sharkImg3{
+    position:relative;
+    right: 110px;
+    width:300px;
+    height: 212px;
+}
+
+#cowGIF{
+    position: relative;
+    bottom: 0px;
+    height: 300px;
+}
+
+.COW{
+    position: relative;
+    right: 500px;
+}
+
+#GIF2{
+    position: relative;
+    height: 300px;
+}
+
+#GIF3{
+    position: relative;
+    height: 300px;
+    bottom: 0px;
+
+}
+
+.link{
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.link:hover{
+    color: rgb(255, 174, 0);
+    text-decoration: underline;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#hyplink{
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 650px;
+}

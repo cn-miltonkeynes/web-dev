@@ -1,0 +1,29 @@
+#redBg{
+    background-color: red;
+}
+
+#whiteBg{
+    background-color: white;
+}
+
+#blueBg{
+    background-color: blue;
+}
+
+#leftBlue{
+    background-color: blue;
+}
+
+#centWhite{
+    position: relative;
+    background-color: white;
+    bottom: 2000px;
+    left: 2000px;
+}
+
+#rightRed{
+    position: relative;
+    bottom: 4000px;
+    left: 2000px;
+    background-color: red;
+}

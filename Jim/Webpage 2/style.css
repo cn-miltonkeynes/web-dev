@@ -1,0 +1,49 @@
+#green{
+    color: green;
+}
+#brown{
+    color:brown;
+}
+#orange{
+    color:orangered
+}
+#black{
+    color:black
+}
+#purple{
+    color:rgb(61, 2, 61)
+
+} 
+#blue{color:blue
+    
+}    
+#red{color:red
+
+} 
+#cyan{color:aqua
+    
+}    
+#pink{color:rgb(233, 146, 160)
+
+}
+
+
+
+
+#box{
+    border-color: #5345f5;
+    border-width: 5px, 5px,5px 5px;
+    border-style: dashed;
+    padding: 50px;
+    margin: 50px;
+    font-size: 60px;
+    
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
